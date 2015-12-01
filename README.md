@@ -1,4 +1,4 @@
-# ideastream-p2-template
+# Ideastream-P2-Template
 P2 Template Page for Ideastream
 
 P2 is a great theme for collaboration. 
